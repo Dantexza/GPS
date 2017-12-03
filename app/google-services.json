@@ -1,0 +1,195 @@
+{
+  "project_info": {
+    "project_number": "186808710640",
+    "firebase_url": "https://devproject-b7e10.firebaseio.com",
+    "project_id": "devproject-b7e10",
+    "storage_bucket": "devproject-b7e10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186808710640:android:9fe173be5d376337",
+        "android_client_info": {
+          "package_name": "com.example.bruno.firebasegps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186808710640-fas7qss3fllrn8a75cq7f1ai8r6k6uqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bruno.firebasegps",
+            "certificate_hash": "49278593b2a15fd2003aa7c3c2cc986cd06c7e76"
+          }
+        },
+        {
+          "client_id": "186808710640-ffft1o1eko30jmctjp3jdeavi5fesn51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpWYFSmN3lYt0m-XVQ8fUp6Jg4siix90k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186808710640-ffft1o1eko30jmctjp3jdeavi5fesn51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186808710640:android:bd9ac8411fb5a53f",
+        "android_client_info": {
+          "package_name": "com.example.bruno.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186808710640-b21ltdjds3v7ftg9pint0qr272d5cfjj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bruno.firebasetest",
+            "certificate_hash": "7fb8a8bd0d3d913db611f9852cc5487cce857857"
+          }
+        },
+        {
+          "client_id": "186808710640-ffft1o1eko30jmctjp3jdeavi5fesn51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpWYFSmN3lYt0m-XVQ8fUp6Jg4siix90k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186808710640-ffft1o1eko30jmctjp3jdeavi5fesn51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186808710640:android:8de23c682dbaf3ec",
+        "android_client_info": {
+          "package_name": "com.example.bruno.syncbus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186808710640-505a43qolkttv5fuaanovtlaajc87sr5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bruno.syncbus",
+            "certificate_hash": "7fb8a8bd0d3d913db611f9852cc5487cce857857"
+          }
+        },
+        {
+          "client_id": "186808710640-k6vplmhlcbfgot5vinoao10k530h3rc8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bruno.syncbus",
+            "certificate_hash": "e2c8dd3953a6e7017dc0631b2f4a82c1151fea3a"
+          }
+        },
+        {
+          "client_id": "186808710640-ffft1o1eko30jmctjp3jdeavi5fesn51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpWYFSmN3lYt0m-XVQ8fUp6Jg4siix90k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186808710640-ffft1o1eko30jmctjp3jdeavi5fesn51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186808710640:android:2a10c23cec3b6c40",
+        "android_client_info": {
+          "package_name": "com.example.bruno.gps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186808710640-dbfs72eohnshut99ki9mc9p03jgd1c0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bruno.gps",
+            "certificate_hash": "7fb8a8bd0d3d913db611f9852cc5487cce857857"
+          }
+        },
+        {
+          "client_id": "186808710640-ffft1o1eko30jmctjp3jdeavi5fesn51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpWYFSmN3lYt0m-XVQ8fUp6Jg4siix90k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186808710640-ffft1o1eko30jmctjp3jdeavi5fesn51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
